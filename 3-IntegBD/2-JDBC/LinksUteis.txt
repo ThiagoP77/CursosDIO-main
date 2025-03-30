@@ -1,0 +1,3 @@
+Flyway: https://www.red-gate.com/products/flyway/community/
+Liquibase: https://www.liquibase.com/
+Faker: https://www.datafaker.net/

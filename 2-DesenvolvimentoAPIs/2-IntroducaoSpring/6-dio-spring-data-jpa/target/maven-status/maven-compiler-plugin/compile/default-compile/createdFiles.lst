@@ -1,0 +1,4 @@
+dio\aula\model\User.class
+dio\aula\StartApp.class
+dio\aula\AulaSpringDataJpaApplication.class
+dio\aula\repository\UserRepository.class

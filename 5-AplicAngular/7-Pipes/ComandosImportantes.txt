@@ -1,0 +1,2 @@
+Criando um Pipe:
+- ng g p "nome" 

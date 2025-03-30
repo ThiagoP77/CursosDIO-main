@@ -1,0 +1,5 @@
+Criar arquivo de configuração do TypeScript: npx tsc --init
+
+Converter TypeScript em JavaScript: npx tsc "nome_arquivo"(ou sem nada, para já converter todos)
+
+Servidor que traduz TypeScript: npm install ts-node-dev

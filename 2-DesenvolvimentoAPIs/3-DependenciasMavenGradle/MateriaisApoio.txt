@@ -1,0 +1,40 @@
+Materiais de Apoio
+Os materiais de apoio que oferecemos têm como objetivo fornecer informações para facilitar e enriquecer a sua jornada de aprendizado no curso "Gerenciando Dependências com Maven e Gradle". Aqui você encontrará links úteis, como slides, repositórios e páginas oficiais, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
+
+
+
+Recursos Adicionais
+Para ajudá-lo a aprofundar o conhecimento, disponibilizamos a seguir alguns materiais complementares específicos:
+
+Instalação do maven: https://www.baeldung.com/install-maven-on-windows-linux-mac
+
+Maven doc: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+Lombok: https://projectlombok.org
+
+Mapstruct: https://mapstruct.org
+
+Grade: https://gradle.org/install/
+
+Começando com grade: https://docs.gradle.org/current/userguide/part1_gradle_init.html 
+
+https://docs.gradle.org/current/userguide/build_init_plugin.html
+
+Checkstyle: https://checkstyle.sourceforge.io
+
+Mvn repository: https://mvnrepository.com
+
+Gradle plugin: https://plugins.gradle.org
+
+Maven Publish plugin: https://docs.gradle.org/current/userguide/publishing_maven.html
+
+Atualização da versão do grade: https://docs.gradle.org/current/userguide/upgrading_version_8.html
+
+ 
+
+Dicas e Links Úteis
+Para se desenvolver ainda mais e se destacar na DIO e no mercado de trabalho, sugerimos os seguintes recursos:
+
+Artigos e Fórum da DIO: Compartilhe seus conhecimentos e dúvidas através dos artigos (visíveis globalmente na plataforma da DIO) e nos fóruns específicos para cada experiência educacional, como nossos Bootcamps.
+Rooms: Participe do Rooms, uma ferramenta de bate-papo em tempo real onde você pode interagir com outros participantes dos nossos Bootcamps, compartilhando dúvidas, dicas e snippets de código.
+Exploração na Web: Utilize motores de busca para aprofundar seu conhecimento sobre temas específicos. Páginas como o StackOverflow são recursos valiosos para encontrar soluções e expandir seu entendimento.

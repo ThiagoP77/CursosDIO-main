@@ -1,0 +1,3 @@
+Criar um componente e atualizar o módulo:
+- ng generate component "nome"
+- ng g c "nome"

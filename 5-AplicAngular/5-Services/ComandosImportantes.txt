@@ -1,0 +1,2 @@
+Comando de criar um Service:
+- ng g s "nome"

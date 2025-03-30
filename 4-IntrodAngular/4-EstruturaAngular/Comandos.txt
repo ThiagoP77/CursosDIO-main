@@ -1,0 +1,12 @@
+Novo projeto Angular: 
+- ng new "nome_projeto"
+
+Rodar o projeto:
+- ng serve
+- ng s
+- ng serve/s -o
+- npm run start
+
+Minificar o projeto:
+- ng build
+- ng b

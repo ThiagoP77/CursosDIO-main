@@ -1,0 +1,2 @@
+Criar um módulo:
+- ng g m "nome"
